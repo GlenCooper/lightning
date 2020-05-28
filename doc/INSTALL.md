@@ -365,6 +365,3 @@ apk del ca-certificates alpine-sdk autoconf automake git libtool \
   gmp-dev sqlite python3 py3-mako net-tools zlib-dev libsodium gettext
 ```
 
-Additional steps
---------------------
-Go to [README](https://github.com/ElementsProject/lightning/blob/master/README.md) for more information how to create an address, add funds, connect to a node, etc.
